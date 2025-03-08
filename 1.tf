@@ -3,5 +3,4 @@ tags={
     Name="vamsi"
     owner="krishna"
     location="hyderabad"
-    house="oldalwal"
 }
